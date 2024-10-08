@@ -8,13 +8,12 @@
 - ⚡ I like to play football and games(TFT,..) 😍
 ---
 
-![Hezu's github stats](https://github-readme-stats.vercel.app/api?username=Heuik6&show_icons=true)
-<img align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
-
----
-<a href="https://github.com/Heuik6">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heuik6&layout=compact" />
-</a>
+<div align="center">
+  <a href="https://github.com/Heuik6">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heuik6&show_icons=true&locale=en&layout=compact&theme=light" alt="Heuik6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heuik6&show_icons=true&locale=en&layout=compact&theme=light" alt="Heuik6"/>
+  </a>
+</div>
 
 -----
 ## Social media :mailbox_with_no_mail:
