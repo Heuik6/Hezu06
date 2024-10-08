@@ -9,7 +9,7 @@
 ---
 
 ![Hezu's github stats](https://github-readme-stats.vercel.app/api?username=Heuik6&show_icons=true)
-<img align="left" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+<img align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 
 ---
 <a href="https://github.com/Heuik6">
