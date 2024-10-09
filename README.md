@@ -5,7 +5,7 @@
 ## I'm a Computer Science and Engineering Student at UET-VNU
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ I like to play football and games(TFT,..) 😍
+- ⚡ I like to play football and games (TFT, Valorant, ...) 😍
 ---
 
 <div align="center">
