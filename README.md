@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Hezu06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heuik6&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu06"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heuik6&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hezu06&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu06"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hezu06&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu6"/>
   </a>
 </div>
 
