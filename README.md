@@ -1,21 +1,17 @@
-# Hi there, I'm Hezu
-
-
-
-## I'm a Computer Science and Engineering Student at UET-VNU
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ I like to play football and games (TFT, Valorant, ...) 😍
----
-
 <div align="center">
-  <a href="https://github.com/Hezu06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hezu06&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu06"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hezu06&show_icons=true&locale=en&layout=compact&theme=light" alt="Hezu6"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Hezu,+I+study+at+UET+VNU+%E2%9C%A9" width="70%" />
+
+<br><br>
+<pre>
+    💼 Back-end dev
+    💻 System programming languages
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code 
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
 </div>
-
------
-## Social media :mailbox_with_no_mail:
-- Email: [![Email](https://img.shields.io/badge/nguyentrunghieu14112006@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentrunghieu14112006@gmail.com)
-
+<!--  -->
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
