@@ -3,9 +3,7 @@
 
 <br><br>
 <pre>
-    💼 Back-end dev
-    💻 System programming languages
-    📖 Software architecture • Distributed systems
+    📖 Software architecture • AI
     🎮 Music • Games • Anime • Code 
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
